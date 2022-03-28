@@ -24,6 +24,9 @@
  <div> 
   <a href="https://api.whatsapp.com/send?phone=5521991738708"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
     <a href="https://www.linkedin.com/in/gabriel-fernandes-45b4a71a5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+   
+   
+   ![snake gif](https://github.com/gabriel7277/gabriel7277/blob/output/github-contribution-grid-snake.gif)
  
  </div>
 
