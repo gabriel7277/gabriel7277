@@ -1,7 +1,7 @@
 ### Olá Eu Sou o Gabriel Fernandes
 
-- 🔭 Eu sou Estudante de T.i,Amante de Tecnologia.
-- 🌱 Altuamente Estudando Muito C#,HTML css js.
+- 🔭 Amante de Tecnologia, e Estudante de T.I
+- 🌱 Altuamente Estudando Muito C#,HTML css js
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
