@@ -1,13 +1,13 @@
 ### Olá Eu Sou o Gabriel Fernandes
 
-- 🔭 Amante de Tecnologia, e Estudante de T.I
-- 🌱 Altuamente Estudando Typescript,Javascript,Html,css,React,Angular,Java
-- 😄 Pronouns: Ele/Dele
+- 🔭 Amante de Tecnologia, e Estudante de T.I;
+- 🌱 Altuamente Estudando Typescript,Javascript,Html,css,React,Angular,Java;
+- 😄 Pronouns: Ele/Dele;
 
 <div align="center">
   <a href="https://github.com/gabriel7277">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel7277&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7277&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel7277&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7277&hide_progress=true)"/>
 </div>
   
   <div style="display: inline_block"><br>
