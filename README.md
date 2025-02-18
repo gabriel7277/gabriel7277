@@ -1,7 +1,7 @@
 ### Olá Eu Sou o Gabriel Fernandes
 
 - 🔭 Amante de Tecnologia, e Desenvolvedor;
-- 🌱 Altuamente Estudando tudo sobre desenvolvimento Fullstack;
+- 🌱 Altuamente estudando tudo sobre desenvolvimento Fullstack;
 - 😄 Pronouns: Ele/Dele;
 
 <div align="center">
