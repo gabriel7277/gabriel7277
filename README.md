@@ -29,14 +29,4 @@ Quando surge uma ideia, eu gosto de colocar a mão na massa e transformar em có
 </div>
 
 ---
-
-## 🌐 Onde me encontrar
-
-<div>
-  <a href="https://www.linkedin.com/in/gabriel-fernandes-45b4a71a5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
  Sempre aberto a aprender coisas novas, colaborar em projetos e trocar ideias sobre tecnologia.
